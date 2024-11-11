@@ -1,6 +1,6 @@
 # gusbit network 🌐✨
 
-Bienvenidos a **Gusbit Network**, donde transformamos ideas en soluciones digitales. Nuestro enfoque se centra en la excelencia en diseño web, desarrollo de aplicaciones, tiendas en línea y soporte de TI, para llevar tu negocio a un nuevo nivel de innovación y eficiencia.
+Bienvenidos a **gusbit network**, donde transformamos ideas en soluciones digitales. Nuestro enfoque se centra en la excelencia en diseño web, desarrollo de aplicaciones, tiendas en línea y soporte de TI, para llevar tu negocio a un nuevo nivel de innovación y eficiencia.
 
 ---
 
