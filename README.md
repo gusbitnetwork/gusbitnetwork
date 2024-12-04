@@ -14,7 +14,7 @@ Bienvenidos a **gusbit network**, donde transformamos ideas en soluciones digita
 
 ### 👋 Sobre mí
 
-- **Hola, soy @gusbitnet**: Detrás de Gusbit Network, soy Gus, apasionado por la tecnología y la creación de experiencias digitales que marcan la diferencia.
+- **Hola, soy @gusbitnet**: Detrás de gusbit network, soy Gus, apasionado por la tecnología y la creación de experiencias digitales que marcan la diferencia.
 - **Intereses**: Me interesa la tecnología, la innovación y ayudar a empresas a destacar en el mundo digital.
 - **Actualmente aprendiendo**: Nuevas herramientas y tecnologías que hagan nuestras soluciones más ágiles y efectivas.
 - **Colaboración**: Busco colaborar con emprendedores, startups y empresas que deseen mejorar su presencia digital.
